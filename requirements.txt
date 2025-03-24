@@ -4,3 +4,5 @@ numpy
 scikit-learn
 pyodbc
 streamlit_autorefresh
+streamlit
+plotly
