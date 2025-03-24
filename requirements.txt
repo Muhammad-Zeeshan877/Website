@@ -1,0 +1,6 @@
+streamlit
+pandas
+numpy
+scikit-learn
+pyodbc
+streamlit_autorefresh
